@@ -3,6 +3,7 @@ O Projeto possuiem dois sistemas para controlar o acesso e permissao para utiliz
 
 Sistema de Permissão e Autorização de Acesso
 Este projeto é uma aplicação web desenvolvida em Python com a biblioteca Streamlit para gerenciar permissões e autorizações de usuários de forma granular e centralizada. A interface permite a criação de grupos de acesso, a associação de usuários a esses grupos e a definição de quais recursos (chamados de "Painéis" e "Itens de Faturamento") cada grupo pode acessar.
+
 ✨ Principais Funcionalidades
 •	Gerenciamento de Grupos de Acesso: Crie, edite e exclua grupos de acesso de forma intuitiva.
 •	Associação de Recursos: Associe múltiplos "Painéis" a cada grupo. Para painéis específicos, defina permissões detalhadas para "Itens de Faturamento".
@@ -24,6 +25,7 @@ Formulário simples para editar o e-mail (parcial) e o grupo de um usuário.
 Visão consolidada e expansível de todas as permissões, ideal para auditoria e consulta rápida.
 6. Filtrando a Listagem de Permissões
 A mesma tela de listagem, agora filtrada por um grupo específico.
+
 🛠️ Tecnologias Utilizadas
 •	Linguagem: Python 3
 •	Framework Web: Streamlit
@@ -51,14 +53,23 @@ O projeto está organizado da seguinte forma para separar responsabilidades (Mod
 │   ├── permissao.py                    # Página para o CRUD de Usuários
 
 │   └── listar_permissaoacesso.py       # Página para a listagem completa de permissões
+
 ├── View/
+
 │   ├── AcessoPermitido/
+
 │   │   ├── Listagem.py                 # UI da listagem completa de permissões
+
 │   │   └── Listar.py                   # UI do CRUD de usuários
+
 │   └── GrupoAcesso/
+
 │       └── Listar.py                   # UI do CRUD de grupos (arquivo não fornecido, mas inferido)
+
 ├── .env                                # Arquivo para as credenciais do banco (deve ser criado localmente)
+
 ├── main.py                             # Ponto de entrada da aplicação Streamlit
+
 └── requirements.txt                    # Dependências do projeto
 
 
