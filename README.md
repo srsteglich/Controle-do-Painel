@@ -30,17 +30,26 @@ A mesma tela de listagem, agora filtrada por um grupo específico.
 •	Banco de Dados: PostgreSQL
 •	Driver de Conexão: pg8000
 •	Gerenciamento de Variáveis de Ambiente: python-dotenv
+
 🗂️ Estrutura do Projeto
 O projeto está organizado da seguinte forma para separar responsabilidades (Model-View-Controller):
 .
 ├── Controller/
+
 │   ├── GrupoAcessoController.py        # Lógica para gerenciar grupos e seus recursos
+
 │   └── GrupoAcessoUsuarioController.py   # Lógica para gerenciar usuários e suas associações
+
 ├── Model/
+
 │   └── Database.py                     # Lida com a conexão e execução de queries no banco de dados
+
 ├── Pages/
+
 │   ├── grupos_acesso.py                # Página para o CRUD de Grupos
+
 │   ├── permissao.py                    # Página para o CRUD de Usuários
+
 │   └── listar_permissaoacesso.py       # Página para a listagem completa de permissões
 ├── View/
 │   ├── AcessoPermitido/
@@ -51,6 +60,8 @@ O projeto está organizado da seguinte forma para separar responsabilidades (Mod
 ├── .env                                # Arquivo para as credenciais do banco (deve ser criado localmente)
 ├── main.py                             # Ponto de entrada da aplicação Streamlit
 └── requirements.txt                    # Dependências do projeto
+
+
 
 Sistema de Faturamento 
 
