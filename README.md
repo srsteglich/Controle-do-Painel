@@ -18,6 +18,7 @@ Este projeto é uma aplicação web desenvolvida em Python com a biblioteca Stre
   
   •	Segurança: O e-mail do usuário é validado para pertencer ao domínio @nome_empresa.com de forma automática.
 
+
 📸 Screenshots
 1. Gerenciamento de Grupos de Acesso
 Visão geral de todos os grupos, seus painéis, itens de faturamento e ações de edição/exclusão.
@@ -32,6 +33,7 @@ Visão consolidada e expansível de todas as permissões, ideal para auditoria e
 6. Filtrando a Listagem de Permissões
 A mesma tela de listagem, agora filtrada por um grupo específico.
 
+
 🛠️ Tecnologias Utilizadas
 
   •	Linguagem: Python 3
@@ -43,6 +45,7 @@ A mesma tela de listagem, agora filtrada por um grupo específico.
   •	Driver de Conexão: pg8000
   
   •	Gerenciamento de Variáveis de Ambiente: python-dotenv
+
 
 🗂️ Estrutura do Projeto
 O projeto está organizado da seguinte forma para separar responsabilidades (Model-View-Controller):
