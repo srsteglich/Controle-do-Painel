@@ -91,3 +91,35 @@ O projeto está organizado da seguinte forma para separar responsabilidades (Mod
 Sistema de Faturamento 
 
 Apos utilizar o Sistema de Acesso e Permissao, utiliza o Sistema de Faturamento para mostrar os dados do SQLServer que mostrar os graficos( Dashboard ).
+
+
+________________________________________________________________________________________________________________________________________________________
+
+As Telas do Sistemas de Acesso:
+
+<img width="886" height="382" alt="image" src="https://github.com/user-attachments/assets/915f6dc7-5691-4630-b0ac-fa6c470feae5" />
+
+Figura 1: Tela de Grupos de Acesso, exibindo a listagem dos grupos cadastrados, seus painéis associados e os respectivos itens de faturamento.
+
+
+<img width="886" height="383" alt="image" src="https://github.com/user-attachments/assets/0fdcfce8-0e7c-4664-b7a8-aaa4d03ba1cb" />
+
+Figura 2: Tela de Grupos de Acesso, exibindo a listagem dos grupos cadastrados, seus painéis associados e os respectivos itens de faturamento.
+
+
+<img width="886" height="377" alt="image" src="https://github.com/user-attachments/assets/a4f51d23-7c80-4440-a7bf-75a737945227" />
+
+Figura 3: Filtro de listagem completa de permissões por grupo selecionado.
+
+
+<img width="886" height="379" alt="image" src="https://github.com/user-attachments/assets/1bab5c76-716a-4ae8-8aaa-c568d82d41c4" />
+
+Figura 4: Visualização do grupo 'Dados' filtrado, exibindo os painéis associados, itens de faturamento e usuários vinculados.
+
+
+<img width="886" height="380" alt="image" src="https://github.com/user-attachments/assets/5d561fea-8619-4820-bb6e-4193d559625a" />
+
+Figura 5: Visualização do grupo 'Analista' filtrado, exibindo os painéis associados, itens de faturamento e usuários vinculados.
+
+
+
