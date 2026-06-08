@@ -121,5 +121,41 @@ Figura 4: Visualização do grupo 'Dados' filtrado, exibindo os painéis associa
 
 Figura 5: Visualização do grupo 'Analista' filtrado, exibindo os painéis associados, itens de faturamento e usuários vinculados.
 
+________________________________________________________________________________________________________________________________________________________
 
+As Telas do Sistemas de Faturamentos (Graficos):
+
+<img width="886" height="415" alt="image" src="https://github.com/user-attachments/assets/cae2bd59-2f47-4fa0-a58a-b8723192ae3e" />
+
+Figura 1: Tela inicial do Painel de Faturamentos e Clientes. O sistema realiza a identificação automática do e-mail do usuário logado e carrega suas permissões e grupos de acesso correspondentes.
+
+
+<img width="886" height="415" alt="image" src="https://github.com/user-attachments/assets/d23c2343-c3b9-494f-a0c4-9609732f5c69" />
+
+Figura 2: Listagem e detalhamento do faturamento por cliente e grupo de receita, com dados consolidados do ano selecionado.
+
+
+<img width="886" height="415" alt="image" src="https://github.com/user-attachments/assets/7d9f7c8a-222b-43df-addf-0cfd3009d276" />
+
+Figura 3: Visualização em Gráfico de Barras do total de receita por cliente e por grupo de faturamento.
+
+
+<img width="886" height="415" alt="image" src="https://github.com/user-attachments/assets/9a99a194-8acb-41ae-934d-30ec47ec98b6" />
+
+Figura 4: Gráfico de Pizza exibindo a distribuição percentual de participação por Grupo de Receita.
+
+
+<img width="886" height="416" alt="image" src="https://github.com/user-attachments/assets/0c560920-39d9-4ac3-b407-b5d573c66eb8" />
+
+Figura 5: Na tela Faturamento Mensal, filtrei os Grupo de Receita apenas Plotter e Sala de Corte com os meses de Março à Julho de 2024, mostram a lista da Tabela ordenadas.
+
+
+<img width="886" height="416" alt="image" src="https://github.com/user-attachments/assets/df88b28f-f0fa-4b1f-b226-94a6a7deae25" />
+
+Figura 6: Na tela Faturamento Mensal, filtrei os Grupo de Receita apenas Plotter e Sala de Corte com os meses de Março à Julho de 2024, mostram Gráficos de Linha ordenadas por meses escolhidos.
+
+
+<img width="886" height="417" alt="image" src="https://github.com/user-attachments/assets/bb4c0053-1105-4538-ab78-920ef42f2749" />
+
+Figura 7: Na tela Faturamento Mensal, filtrei os Grupo de Receita apenas Plotter e Sala de Corte com os meses de Março à Julho de 2024, mostram Área ordenadas por meses escolhidos.
 
